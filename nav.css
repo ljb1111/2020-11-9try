@@ -1,0 +1,14 @@
+.nav a {
+    display: inline-block;
+    height: 58px;
+    width: 120px;
+    background: pink;
+    text-align: center;
+    line-height: 58px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.nav .bg1 {
+    background: url(html_css_material\第四天\images\bg2.png) no-repeat;
+}
